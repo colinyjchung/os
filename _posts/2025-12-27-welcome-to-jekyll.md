@@ -24,6 +24,30 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
+# Heading One
+## Heading Two
+### Heading Three
+#### Heading Four
+##### Heading Five
+
+* bullet one
+* Bullet two
+* bullet three
+
+1. bullet 1
+2. bullet 2
+3. bullet 3
+
+**Bold a text** and _italicize_ and ~~strike~~
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
