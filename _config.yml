@@ -12,8 +12,6 @@ plugins:
   - jekyll-seo-tag
 
 style: hacker
-
-Fonts
 disable_google_fonts: true
 
 # Tracking (generic, optional; loads only in production)
