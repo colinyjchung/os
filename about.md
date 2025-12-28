@@ -1,7 +1,7 @@
 ---
 title: about
 layout: default
-permalink: /
+permalink: /about/
 robots: noindex
 ---
 
