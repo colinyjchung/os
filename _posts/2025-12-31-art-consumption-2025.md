@@ -198,6 +198,7 @@ categories: tracking
 |01/31|💬|JSA (1999) #8|David S. Goyer & Geoff Johns|Stephen Sandowski|
 
 ## February 2025
+
 ||||||
 |---|---|---|---|---|
 |02/01|📺|St. Denis Medical (2024) S1E9 "You Got to Have a Plan"|Bill Benz|Naomi Ekperigin|
@@ -308,6 +309,7 @@ categories: tracking
 |02/28|💬|Aliens vs. Avengers (2024) #2|Jonathan Hickman|Esad Ribić|
 
 ## March 2025
+
 ||||||
 |---|---|---|---|---|
 |03/01|📃|Except for the Sickness I’m Quite Healthy Now. You Can Believe That. (1968)|Thomas Glynn|Paris Review|
@@ -463,6 +465,7 @@ categories: tracking
 |03/31|📃|Empire of the Necromnacers (1932)|Clark Ashton Smith|Weird Tales|
 
 ## April 2025
+
 ||||||
 |---|---|---|---|---|
 |04/02|💬|We're Taking Everyone Down with Us #1|Matthew Rosenberg|Stefano Landin|
@@ -590,6 +593,7 @@ categories: tracking
 |04/30|💬|All-Star Comics (1940) #4|Gardner Fox & Evelyn Gaines|Various[^34]|
 
 ## May 2025
+
 ||||||
 |---|---|---|---|---|
 |05/02|💬|Action Comics (1938) #1|Jerry Siegel|Joe Schuster|
@@ -748,6 +752,7 @@ categories: tracking
 |05/31|💬|Mujina (noppera-bō)|Japanese Folklore|trans. Lafcadio Hearn|
 
 ## June 2025
+
 ||||||
 |---|---|---|---|---|
 |06/01|📃|Me, Rory and Aurora (2021)|Jonas Eika (trans. Sherilyn Nicolette Hellberg)|Granta|
@@ -906,6 +911,7 @@ categories: tracking
 |06/29|💬|JSA (1999) #1 "Justice Be Done"|David S. Goyer & James Robinson|Stephen Sadowski|
 
 ## July 2025
+
 ||||||
 |---|---|---|---|---|
 |07/01|💬|Superman: Birthright (2003) #1 "In the Beginning..."|Mark Waid|Leinil Francis Yu|
@@ -1084,6 +1090,7 @@ categories: tracking
 |07/31|💬|She-Hulk (2022) #7|Rainbow Rowell|Luca Maresca|
 
 ## August 2025
+
 ||||||
 |---|---|---|---|---|
 |08/02|💬|She-Hulk (2022) #8|Rainbow Rowell|Takeshi Miyazawa|
@@ -1585,6 +1592,7 @@ categories: tracking
 |12/27|📺|Ghosts (2021) S5E10 "It's a Wonderful Christmas Carol: Part Two"|Richie Keen|John Blickstead & Trey Kollmer|
 
 ## Numbers
+
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |0    |1    |0    |0    |
