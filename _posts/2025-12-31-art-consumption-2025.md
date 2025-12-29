@@ -1610,6 +1610,7 @@ categories: tracking
 
 
 ## Legend
+
 **NOTE:** Due to space limitations, columns 4/5 mean different things based on medium.
 
 * 📖 - book (novel): author only
@@ -1627,6 +1628,11 @@ categories: tracking
 * 🎭 - play: playwright/director
 * 🎸 - live music: band or performer/location
 * 🏛️ - museum/exhibit: artist/location
+
+
+
+
+---
 
 [^1]: Robbi Rodriguez, Javier Pina, and Gavin Guidry
 [^2]: Mario Puzo, David Newman, Leslie Newman, and Robert Benton
