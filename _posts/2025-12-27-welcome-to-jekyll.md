@@ -30,19 +30,20 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
 
-# Heading One
-## Heading Two
-### Heading Three
-#### Heading Four
-##### Heading Five
-
-* bullet one
-* Bullet two
-* bullet three
-
-1. bullet 1
-2. bullet 2
-3. bullet 3
+* 📖 - book - novel
+* 📜 - scroll - history
+* 📃 - page_with_curl - short story/magazine
+* 📰 - newspaper - econ/geop
+* 💬 - speech_balloon - comic
+* 🎧 - headphones - audiobook
+* 📑 - bookmark_tabs - TTRPG module
+* 📺 - tv - TV show
+* 📽️ - film_projector - film
+* 👺 - goblin - TTRPG
+* 🎲 - game_die - board game
+* 🎭 - performing_arts - theatre
+* 🎸 - guitar - live music
+* 🏛️ - classical_building - museum/exhibit
 
 **Bold a text** and _italicize_ and ~~strike~~
 
