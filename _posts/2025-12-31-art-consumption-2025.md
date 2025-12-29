@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Art Consumption 2025"
-date: 2025-12-25 23:59:59 -0800
+date: 2025-12-31 23:59:59 -0800
 categories: tracking
 ---
+# ART CONSUMPTION 2025
 
 ## January 2025
 
