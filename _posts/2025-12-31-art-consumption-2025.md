@@ -1591,6 +1591,11 @@ categories: tracking
 |12/27|📺|Ghosts (2021) S5E8 "The Life and Times of Esther Greene"|Christine Gernon|Emily Schmidt|
 |12/27|📺|Ghosts (2021) S5E9 "It's a Wonderful Christmas Carol: Part One"|Richie Keen|Talia Bernstein|
 |12/27|📺|Ghosts (2021) S5E10 "It's a Wonderful Christmas Carol: Part Two"|Richie Keen|John Blickstead & Trey Kollmer|
+|12/29|📺|Bob's Burgers (2011) S16E10 "Heist Things Are Heist"|Chris Song|Scott Jacobson|
+|12/29|📺|The Simpsons (1989) S37E11 "Parahormonal Activity"|Chris Clements|Loni Steele Sosthand|
+|12/30|📽️|Rogue One (2016)|Gareth Edwards|Chris Weitz & Tony Gilroy|
+
+
 
 ## Numbers
 
