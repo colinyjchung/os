@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Consumption 2025"
-date: 2025-12-31 23:59:59 -0800
+date: 2025-12-31
 categories: tracking
 robots: noindex
 ---
@@ -1595,7 +1595,7 @@ robots: noindex
 |12/29|📺|Bob's Burgers (2011) S16E10 "Heist Things Are Heist"|Chris Song|Scott Jacobson|
 |12/29|📺|The Simpsons (1989) S37E11 "Parahormonal Activity"|Chris Clements|Loni Steele Sosthand|
 |12/30|📽️|Rogue One (2016)|Gareth Edwards|Chris Weitz & Tony Gilroy|
-
+|12/31|📽️|Ratatouille (2007)|Brad Bird|Brad Bird|
 
 
 ## Numbers
@@ -1613,7 +1613,9 @@ robots: noindex
 |SEP |2    |1    |0    |8    |70   |0    |0    |19   |2    |0    |0    |0    |2    |1    |
 |OCT |2    |0    |0    |20   |77   |0    |0    |20   |0    |1    |3    |0    |5    |0    |
 |NOV |1    |2    |0    |8    |46   |0    |3    |10   |2    |0    |0    |0    |1    |0    |
-|DEC |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|DEC |0    |0    |0    |4    |16   |0    |0    |13   |2    |0    |6    |1    |0    |0    |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TTL |8    |13   |2    |116  |1105 |0    |4    |191  |34   |7    |9    |8    |10   |25   |
 
 
 ## Legend
